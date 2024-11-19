@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Hitori Goto Vtuber Model - Bocchi The Rock - @PaimaModels.moc3",
+		"Textures": [
+			"Hitori Goto Vtuber Model - Bocchi The Rock - @PaimaModels.8192/texture_00.png"
+		],
+		"Physics": "Hitori Goto Vtuber Model - Bocchi The Rock - @PaimaModels.physics3.json",
+		"DisplayInfo": "Hitori Goto Vtuber Model - Bocchi The Rock - @PaimaModels.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Guitar",
+				"File": "Guitar.exp3.json"
+			},
+			{
+				"Name": "Happy",
+				"File": "Happy.exp3.json"
+			},
+			{
+				"Name": "Scare",
+				"File": "Scare.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
